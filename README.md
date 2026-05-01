@@ -1,67 +1,93 @@
-# E-Commerce Website
+# 🛒 React E-Commerce Website
 
-A Ecommerce Website made with React.js Framework.
+A modern and responsive **E-Commerce Web Application** built using **React.js**.
+This project showcases a clean UI, product listing, cart functionality, and user authentication pages.
 
+---
 
-## Demo
+## 🔥 Features
 
-https://reactjs-ecommerce-app.vercel.app/
+* 🏠 Home Page with Hero Section
+* 🛍️ Product Listing & Categories
+* 🔎 Product Details Page
+* 🛒 Add to Cart Functionality
+* 🔐 Login & Register UI
+* 🌙 Dark Theme UI (Modern Look)
+* 📱 Fully Responsive Design
 
-## Features
+---
 
-- Easy to integrate with Backend
-- Fully Responsive
+## 🧰 Tech Stack
 
+* ⚛️ React.js
+* 🎨 Bootstrap
+* 🔄 Redux (State Management)
+* 🌐 FakeStore API
 
-## Screenshots
+---
 
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+## 📸 Screenshots
 
+### 🏠 Home Page
 
+<img width="1889" height="908" alt="Screenshot 2026-05-02 041457" src="https://github.com/user-attachments/assets/4e567191-9ab6-4ec4-9a8c-cf0eae90fd3d" />
 
-## Run Locally
+### 🛍️ Products Page
 
-Clone the project
+<img width="1790" height="812" alt="Screenshot 2026-05-02 041505" src="https://github.com/user-attachments/assets/ff3d5f33-f49b-48af-a977-82288f1c8f66" />
+
+### 🔐 Login Page
+
+<img width="1908" height="819" alt="Screenshot 2026-05-02 041547" src="https://github.com/user-attachments/assets/c3860c82-84d3-4c94-bf11-5923c3dd7e0f" />
+
+---
+
+## ⚙️ Installation
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+git clone https://github.com/SSS-710/React_E-Commerce.git
+cd React_E-Commerce
+npm install
+npm start
 ```
 
-Go to the project directory
+---
 
-```bash
-  cd React_E-Commerce
+## 📂 Project Structure
+
+```
+src/
+ ├── components/
+ ├── pages/
+ ├── redux/
+ ├── App.js
+ └── index.js
 ```
 
-Install dependencies
+---
 
-```bash
-  npm install
-```
+## 🌐 Live Demo
 
-Start the server
+👉 Coming Soon...
 
-```bash
-  npm start
-```
+---
 
+## 👨‍💻 Author
 
+**Shashank Singh Sikarwar**
+📧 Email: [shashanksss710@gmail.com](shashanksss710@gmail.com)
 
-## Tech Stack
+---
 
-* [React](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
-* [Bootstrap](https://getbootstrap.com/)
-* [Fake Store API](https://fakestoreapi.com/)
+## ❤️ Made With
 
-## Contributing
+Made with ❤️ by **SSS**
 
-Contributions are always welcome!
-Just raise an issue, we will discuss it.
+---
 
+## ⭐ Support
 
-## Feedback
+If you like this project, give it a ⭐ on GitHub!
 
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
 
 
